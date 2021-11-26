@@ -116,6 +116,5 @@ spec:
       - key: env
         operator: In
         values:
-          - dev
           - test
 
