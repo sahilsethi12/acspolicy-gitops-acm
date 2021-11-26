@@ -117,4 +117,5 @@ spec:
         operator: In
         values:
           - dev
+          - test
 
